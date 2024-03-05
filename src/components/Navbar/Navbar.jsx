@@ -41,7 +41,7 @@ function Navbar() {
             </ul>
 
             <div className={styles.mobile_button}>
-              <a href="#">Hire Me</a>
+              <a href="#">Hinoona Me</a>
             </div>
           </>
         ) : null
