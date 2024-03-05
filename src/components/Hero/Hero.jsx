@@ -10,7 +10,7 @@ function Hero() {
       <div className={styles.container}>
         <div className={styles.hero_content}>
           <div className={styles.hero_info}>
-            <p className={styles.text_1}>Hello fellows Developer!</p>
+            <p className={styles.text_1}>Hello Developer!</p>
             <h3 className={styles.text_2}>I'm Kittithat Chaichana</h3>
             <p className={styles.text_3}>
               <span>I am a </span>
@@ -25,7 +25,7 @@ function Hero() {
                 repeat={Infinity}
               />
 </p>
-            <p className={styles.text_4}>If, at first, you do not succeed, call it version 1.0.</p>
+            <p className={styles.text_4}>Hi, I'm a novice programmer currently seeking job opportunities. If you're interested, feel free to take a look at my profile.</p>
             <ul className={styles.hero_social}>
               <li>
                 <a href="">
